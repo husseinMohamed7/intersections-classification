@@ -1,8 +1,8 @@
+The Cabspotting dataset contains GPS traces of taxi cabs in San Francisco (USA), collected in May 2008.
 Michal Piorkowski, Natasa Sarafijanovic-Djukic, Matthias Grossglauser, CRAWDAD dataset epfl/mobility (v. 2009-02-24), traceset: cab.
 Link(free registration required): http://crawdad.org/~crawdad/epfl/mobility/20090224/cab/
 
-
-**progress**
+**progress** by: Hussein
 -loading the data
 	=convert all text files to csv with the titles and add a user number for ech txt file
 	=merge all csv files to one
