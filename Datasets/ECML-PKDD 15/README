@@ -1,0 +1,8 @@
+
+Moreira-Matias, L., Gama, J., Ferreira, M., Mendes-Moreira, J., Damas, L., "Predicting Taxi-Passenger Demand Using Streaming Data".
+In: IEEE Transactions on Intelligent Transportation Systems, vol.14, no.3, pp.1393-1402, September (2013)
+
+An accurate dataset describing a complete year (from 01/07/2013 to 30/06/2014) of the trajectories for all the 442 taxis running in the city of Porto,
+in Portugal (i.e. one CSV file named "train.csv"). 
+
+By: Rana
