@@ -1,3 +1,7 @@
-simulate the intersections
+simulated intersection image extractor 
+this code was developed and tested for intersection classification project using four different intersection type 1-cross intersection 2-T intersection 3-round intersection 4-No intersection.
+the product of this code is very complex intersection trajectory image based on many parameter that could help to adjust intersection trajectory.
+you can control sampling time of the trip , sampling rate of the trajectory , sampling rate of the trips at the intersection , length of the straigh road , radius of the round if present , the distance between two lane road,mean of data , standard deviation of data, noize size
+you also can control if you prefer fixed shape at the intersection
+from experiment we build a function to build image with random based extract intersection
 
-by: Akram
