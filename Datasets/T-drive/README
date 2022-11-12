@@ -1,0 +1,6 @@
+T-Drive is dataset collected in Beijing and featuring taxi drivers.
+It features a high number of users (more than 10,000) over a very short period of time (one week).
+Only a sample of the whole dataset, that was collected by Microsoft Research, is released.
+
+Link: https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/
+
